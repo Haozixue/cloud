@@ -13,6 +13,7 @@
         <module>eureka-client-01</module>
         <module>ribbon</module>
         <module>service-feign</module>
+        <module>hystrix</module>
     </modules>
     <packaging>pom</packaging>
 

@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b42f5292-273f-4290-8704-22fe7e7cc869" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/hystrix/hystrix.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hystrix/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hystrix/src/main/java/cn/cloud/HystrixApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hystrix/src/main/java/cn/cloud/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hystrix/src/main/java/cn/cloud/service/HelloService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-server/target/classes/cloud/eureka/EurekaServerApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/target/classes/cloud/eureka/EurekaServerApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -167,7 +174,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574935151063</updated>
-      <workItem from="1574935153953" duration="12832000" />
+      <workItem from="1574935153953" duration="15524000" />
     </task>
     <servers />
   </component>
