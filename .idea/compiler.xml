@@ -6,24 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="eurekaclient" />
-        <module name="eurekaclient01" />
+        <module name="eureka-server" />
         <module name="eureka-client" />
-<<<<<<< HEAD
         <module name="eureka-client-01" />
-        <module name="eureka-server" />
-        <module name="ribbon" />
-        <module name="eurekaserver" />
-        <module name="eurekaclient" />
-=======
-        <module name="eureka-server" />
-        <module name="service-feign" />
         <module name="hystrix" />
-        <module name="eureka-client-01" />
         <module name="ribbon" />
-        <module name="eurekaserver" />
-        <module name="servicefeign" />
->>>>>>> e0dd9ba2a77a9c687c811628488782d6a646e97d
+        <module name="service-feign" />
       </profile>
     </annotationProcessing>
   </component>
@@ -32,13 +20,9 @@
       <module name="eureka-client" options="-parameters" />
       <module name="eureka-client-01" options="-parameters" />
       <module name="eureka-server" options="-parameters" />
-      <module name="eurekaclient" options="-parameters" />
-      <module name="eurekaclient01" options="-parameters" />
-      <module name="eurekaserver" options="-parameters" />
       <module name="hystrix" options="-parameters" />
       <module name="ribbon" options="-parameters" />
       <module name="service-feign" options="-parameters" />
-      <module name="servicefeign" options="-parameters" />
     </option>
   </component>
 </project>
