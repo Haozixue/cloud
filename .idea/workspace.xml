@@ -2,6 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b42f5292-273f-4290-8704-22fe7e7cc869" name="Default Changelist" comment="">
+<<<<<<< HEAD
+      <change afterPath="$PROJECT_DIR$/.idea/cloud.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ribbon/ribbon.iml" beforeDir="false" />
+    </list>
+=======
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud.iml" beforeDir="false" />
@@ -12,6 +22,7 @@
       <change beforePath="$PROJECT_DIR$/ribbon/ribbon.iml" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+>>>>>>> e0dd9ba2a77a9c687c811628488782d6a646e97d
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,13 +39,35 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\17631\.m2\repository" />
+        <option name="mavenHome" value="D:/download/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="D:\download\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UEwdaWdLUcQcF1vVKK7NCweUP5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+=======
   <component name="ProjectId" id="1UEwdaWdLUcQcF1vVKK7NCweUP5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+>>>>>>> e0dd9ba2a77a9c687c811628488782d6a646e97d
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+<<<<<<< HEAD
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+=======
+>>>>>>> e0dd9ba2a77a9c687c811628488782d6a646e97d
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -47,6 +80,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -57,6 +91,22 @@
       <recent name="D:\ideaWorkSpace\cloud\eureka-client-01\src\main\resources" />
     </key>
   </component>
+<<<<<<< HEAD
+  <component name="RunManager" selected="Application.EurekaServerApplication">
+    <configuration name="EurekaServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cloud.eureka.EurekaServerApplication" />
+      <module name="eureka-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cloud.eureka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+=======
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -70,6 +120,7 @@
     </option>
   </component>
   <component name="RunManager" selected="Spring Boot.EurekaServerApplication (1)">
+>>>>>>> e0dd9ba2a77a9c687c811628488782d6a646e97d
     <configuration name="ServiceHiApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cloud.client.ServiceHiApplication" />
       <module name="eurekaclient01" />
@@ -119,6 +170,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
+    <configuration name="ServiceHiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eurekaclient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cloud.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cloud.client.ServiceHiApplication" />
+=======
     <configuration name="ServiceFeignApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="servicefeign" />
       <extension name="coverage">
@@ -135,6 +197,7 @@
     <configuration name="ServiceHiApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="eurekaclient01" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="src.main.java.cloud.client.ServiceHiApplication" />
+>>>>>>> e0dd9ba2a77a9c687c811628488782d6a646e97d
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -158,6 +221,18 @@
       <item itemvalue="Spring Boot.HystrixApplication" />
       <item itemvalue="Spring Boot.EurekaServerApplication" />
       <item itemvalue="Spring Boot.ServiceHiApplication" />
+<<<<<<< HEAD
+      <item itemvalue="Spring Boot.ServiceRibbonApplication" />
+      <item itemvalue="Application.EurekaServerApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EurekaServerApplication" />
+        <item itemvalue="Spring Boot.ServiceRibbonApplication" />
+        <item itemvalue="Application.ServiceHiApplication" />
+        <item itemvalue="Spring Boot.ServiceHiApplication" />
+        <item itemvalue="Spring Boot.EurekaServerApplication" />
+=======
       <item itemvalue="Spring Boot.ServiceFeignApplication" />
       <item itemvalue="Spring Boot.EurekaServerApplication (1)" />
     </list>
@@ -168,8 +243,21 @@
         <item itemvalue="Spring Boot.ServiceFeignApplication" />
         <item itemvalue="Application.ServiceHiApplication" />
         <item itemvalue="Spring Boot.ServiceHiApplication" />
+>>>>>>> e0dd9ba2a77a9c687c811628488782d6a646e97d
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -181,14 +269,70 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574935151063</updated>
+<<<<<<< HEAD
+      <workItem from="1574935153953" duration="4654000" />
+      <workItem from="1574952580771" duration="1237000" />
+=======
       <workItem from="1574935153953" duration="15524000" />
       <workItem from="1575026279358" duration="74000" />
+>>>>>>> e0dd9ba2a77a9c687c811628488782d6a646e97d
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+<<<<<<< HEAD
+  <component name="WindowStateProjectService">
+    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1574952639031">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1574952639031" />
+    <state width="1877" height="352" key="GridCell.Tab.0.bottom" timestamp="1574954141662">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1574954141662" />
+    <state width="1877" height="352" key="GridCell.Tab.0.center" timestamp="1574954141662">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1574954141662" />
+    <state width="1877" height="352" key="GridCell.Tab.0.left" timestamp="1574954141662">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1574954141662" />
+    <state width="1877" height="352" key="GridCell.Tab.0.right" timestamp="1574954141662">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1574954141662" />
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom" timestamp="1574954141662">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1574954141662" />
+    <state width="1877" height="352" key="GridCell.Tab.1.center" timestamp="1574954141662">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1574954141662" />
+    <state width="1877" height="352" key="GridCell.Tab.1.left" timestamp="1574954141662">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1574954141662" />
+    <state width="1877" height="352" key="GridCell.Tab.1.right" timestamp="1574954141662">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1574954141662" />
+    <state x="461" y="167" key="SettingsEditor" timestamp="1574952640796">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="167" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1574952640796" />
+    <state x="645" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1574952612652">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="645" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1574952612652" />
+    <state x="752" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1574954127412">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="752" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1574954127412" />
+=======
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -201,5 +345,6 @@
         </entry>
       </map>
     </option>
+>>>>>>> e0dd9ba2a77a9c687c811628488782d6a646e97d
   </component>
 </project>
