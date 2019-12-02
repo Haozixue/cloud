@@ -155,10 +155,10 @@
     <list>
       <item itemvalue="Application.ServiceHiApplication" />
       <item itemvalue="Spring Boot.ServiceHiApplication (1)" />
+      <item itemvalue="Spring Boot.HystrixApplication" />
       <item itemvalue="Spring Boot.EurekaServerApplication" />
       <item itemvalue="Spring Boot.ServiceHiApplication" />
       <item itemvalue="Spring Boot.ServiceFeignApplication" />
-      <item itemvalue="Spring Boot.HystrixApplication" />
       <item itemvalue="Spring Boot.EurekaServerApplication (1)" />
     </list>
     <recent_temporary>
